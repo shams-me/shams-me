@@ -12,6 +12,9 @@ Hey there! I'm Shams, a 20-year-old Python enthusiast on a journey to become a M
 - 🌱 I’m currently learning web development and data analysis.
 - 👯 I’m looking to collaborate on open-source Python projects.
 
+## Spent time
+[![wakatime](https://wakatime.com/badge/user/2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697.svg)](https://wakatime.com/@2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697)
+
 ## Skills
 
 - Programming Languages: Python 🐍
