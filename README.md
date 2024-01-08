@@ -1,4 +1,4 @@
-# Shams - Python Developer 🐍
+# Shams - Python Developer 🐍 | Go)
 
 🎓 Studying at Yandex to Become a Go Middle Developer  
 
