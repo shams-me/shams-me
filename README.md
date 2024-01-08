@@ -1,23 +1,13 @@
 # Shams - Python Developer 🐍
 
-🎓 Studying at Yandex to Become a Python Middle Developer  
-🌍 Passionate About Crafting Digital Solutions  
-🚀 Turning Coffee into Code  
-
-## About Me
-
-Hey there! I'm Shams, a 20-year-old Python enthusiast on a journey to become a Middle Python Developer. Currently honing my skills at Yandex while exploring the endless possibilities of code.
-
-- 🔭 I’m currently working on improving my Python coding skills.
-- 🌱 I’m currently learning web development and data analysis.
-- 👯 I’m looking to collaborate on open-source Python projects.
+🎓 Studying at Yandex to Become a Go Middle Developer  
 
 ## Spent time
 [![wakatime](https://wakatime.com/badge/user/2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697.svg)](https://wakatime.com/@2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697)
 
 ## Skills
 
-- Programming Languages: Python 🐍
+- Programming Languages: Python 🐍 | Go
 - Databases: PostgreSQL, Redis, Elasticsearch 🛢️
 - ORM and Migrations: SQLAlchemy, Django ORM, Alembic 🗄️
 - Backend Libraries: FastAPI, Django 🚀
@@ -35,7 +25,6 @@ Hey there! I'm Shams, a 20-year-old Python enthusiast on a journey to become a M
 
 ## Connect with Me
 
-📫 [GitHub](https://github.com/shams-me)  
 🌐 [LinkedIn](https://linkedin.com/in/shams-me)  
 📸 [Instagram](https://www.instagram.com/_shams_me_/)
 📲 [Telegram](https://t.me/shamsyakubovich)
