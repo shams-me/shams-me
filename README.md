@@ -2,9 +2,6 @@
 
 🎓 Studying at Yandex to Become a Go Middle Developer  
 
-## Spent time
-[![wakatime](https://wakatime.com/badge/user/2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697.svg)](https://wakatime.com/@2ca9a9c3-5c6a-4e04-affb-cbd0c50b9697)
-
 ## Skills
 
 - Programming Languages: Python 🐍 | Go
