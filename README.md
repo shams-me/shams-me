@@ -22,7 +22,7 @@
 
 ## Connect with Me
 
-🌐 [LinkedIn](https://linkedin.com/in/shams-me)  
+🌐 [LinkedIn](www.linkedin.com/in/imomnazarov-shams)  
 📸 [Instagram](https://www.instagram.com/_shams_me_/)
 📲 [Telegram](https://t.me/shamsyakubovich)
 
