@@ -1,7 +1,6 @@
 # Shams - Middle Python Developer 🐍
 
 - 💻 Currently working on very cool projects.
-- 👨‍🎓 Learning GoLang at Yandex Practicum (1/6 Months) 
 
 ## Connect me
 
