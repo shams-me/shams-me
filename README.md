@@ -1,4 +1,4 @@
-# Shams - Middle Python Developer 🐍
+# Shams - Python Developer 🐍
 
 - 💻 Currently working on very cool projects.
 
